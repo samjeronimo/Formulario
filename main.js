@@ -7,11 +7,11 @@ div_formulario.className = "div-formulario";
 
 //Lista de datos (String)
 let formularios = [
-    {nombre: "Login", link: "https://classroom.google.com/h"},
-    {nombre: "Login", link: "https://classroom.google.com/h"},
-    {nombre: "Login", link: "https://classroom.google.com/h"},
-    {nombre: "Login", link: "https://classroom.google.com/h"},
-    {nombre: "Login", link: "https://classroom.google.com/h"}
+    {nombre: "Login", link: "componentes/Login/login.html"},
+    {nombre: "Login", link: "#"},
+    {nombre: "Login", link: "#"},
+    {nombre: "Login", link: "#"},
+    {nombre: "Login", link: "#"}
 ];
 
 //forEach (for)
