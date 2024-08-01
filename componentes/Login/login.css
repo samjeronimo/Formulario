@@ -37,6 +37,7 @@
     grid-column: 1/4;
     background-color: rgb(39, 39, 190);
     color: white;
+    border-radius: 3px;
     
 
     display: flex;
@@ -56,6 +57,7 @@
     height: 3rem;
     background-color: rgb(3, 51, 3);
     color: white;
+    border-radius: 3px;
 
     display: flex;
     align-items: center;
@@ -133,4 +135,9 @@
 #login .botones .btn-sign-up {
     background-color: gray;
     color: white;
+}
+
+.img-banner {
+    width: 100%;
+    height: 100%;
 }
